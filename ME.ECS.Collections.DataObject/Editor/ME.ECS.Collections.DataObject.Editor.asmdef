@@ -1,0 +1,20 @@
+{
+    "name": "ME.ECS.Collections.DataObject.Editor",
+    "rootNamespace": "",
+    "references": [
+        "ME.ECS",
+        "ME.ECS.Editor",
+        "ME.ECS.Collections.DataObject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
